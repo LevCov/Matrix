@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(300,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(309,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(387,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(388,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(456,10): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(584,9): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(592,17): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(594,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(72): warning C4715: Matrix::operator*: значение возвращается не при всех путях выполнения
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(96): warning C4715: Matrix::operator-: значение возвращается не при всех путях выполнения
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(138): warning C4715: Matrix::operator+: значение возвращается не при всех путях выполнения
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(215): warning C4715: Matrix::adamarMult: значение возвращается не при всех путях выполнения
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(414): warning C4715: Matrix::Trace: значение возвращается не при всех путях выполнения
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(485): warning C4715: Matrix::VNorm: значение возвращается не при всех путях выполнения
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(548): warning C4715: Scalar: значение возвращается не при всех путях выполнения
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(810): warning C4715: operator<<: значение возвращается не при всех путях выполнения
+C:\Users\levax\source\repos\Matrix\Matrix\Matrix.cpp(462): warning C4715: Matrix::Det: значение возвращается не при всех путях выполнения
+  Matrix.vcxproj -> C:\Users\levax\source\repos\Matrix\x64\Debug\Matrix.exe
